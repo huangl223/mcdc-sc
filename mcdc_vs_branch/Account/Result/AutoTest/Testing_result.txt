@@ -1,0 +1,56 @@
+Executing 13 tests
+
+generated_test_1 (NEW_TEST_SET_005): FAIL (balance_set)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_003): FAIL (withdrawal_made)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_001): FAIL (no_aliasing)
+	on_prepare: ok
+	test routine: exceptional (Precondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_007): FAIL (balance_set)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_012): FAIL (transaction_fails_case_202)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_010): FAIL (transaction_fails_case_202)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_002): FAIL (amount_not_negative)
+	on_prepare: ok
+	test routine: exceptional (Precondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_008): FAIL (balance_set)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_006): FAIL (code = 0)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_004): FAIL (is_premium)
+	on_prepare: ok
+	test routine: exceptional (Precondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_011): FAIL (code = 0)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_013): FAIL (transaction_fails_case_202)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+generated_test_1 (NEW_TEST_SET_009): FAIL (code = 0)
+	on_prepare: ok
+	test routine: exceptional (Postcondition violation in EQA_GENERATED_TEST_SET.execute_safe)
+	on_clean: ok
+
+Execution complete

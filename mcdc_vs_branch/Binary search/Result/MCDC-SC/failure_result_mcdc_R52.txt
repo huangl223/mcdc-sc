@@ -1,0 +1,73 @@
+ARRAY.item index_small_enough
+BINARY_SEARCH_6.binary_search present
+BINARY_SEARCH_9.binary_search present
+BINARY_SEARCH_9.binary_search present
+BINARY_SEARCH_9.binary_search present
+BINARY_SEARCH_5.binary_search in_bounds
+BINARY_SEARCH_2.binary_search present
+BINARY_SEARCH_2.binary_search present
+BINARY_SEARCH_2.binary_search present
+BINARY_SEARCH_9.binary_search present
+BINARY_SEARCH_1.binary_search j - i
+BINARY_SEARCH_8.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_8.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_1.binary_search j - i
+BINARY_SEARCH_1.binary_search j - i
+BINARY_SEARCH_1.binary_search j - i
+BINARY_SEARCH_1.binary_search j - i
+BINARY_SEARCH_6.binary_search in_bounds
+BINARY_SEARCH_14.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search in_bounds
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_4.binary_search in_bounds
+BINARY_SEARCH_4.binary_search in_bounds
+BINARY_SEARCH_15.binary_search not_in_upper_part
+BINARY_SEARCH_6.binary_search in_bounds
+BINARY_SEARCH_6.binary_search in_bounds
+BINARY_SEARCH_6.binary_search present
+BINARY_SEARCH_10.binary_search present
+BINARY_SEARCH_8.binary_search in_bounds
+BINARY_SEARCH_8.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_4.binary_search not_in_lower_part
+BINARY_SEARCH_14.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_5.binary_search in_bounds
+BINARY_SEARCH_5.binary_search in_bounds
+BINARY_SEARCH_5.binary_search present
+BINARY_SEARCH_5.binary_search present
+BINARY_SEARCH_3.binary_search j - i
+BINARY_SEARCH_10.binary_search present
+BINARY_SEARCH_10.binary_search present
+BINARY_SEARCH_10.binary_search present
+BINARY_SEARCH_12.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_15.binary_search not_in_upper_part
+ARRAY.item index_small_enough
+BINARY_SEARCH_2.binary_search present
+BINARY_SEARCH_13.binary_search not_in_lower_part
+BINARY_SEARCH_14.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_14.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_9.binary_search present
+ARRAY.item index_small_enough
+BINARY_SEARCH_4.binary_search in_bounds
+ARRAY.item index_small_enough
+BINARY_SEARCH_13.binary_search not_in_lower_part
+BINARY_SEARCH_13.binary_search not_in_lower_part
+BINARY_SEARCH_13.binary_search not_in_lower_part
+BINARY_SEARCH_13.binary_search not_in_lower_part
+BINARY_SEARCH_12.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_12.binary_search in_bounds
+BINARY_SEARCH_10.binary_search present
+BINARY_SEARCH_1.binary_search j - i
+BINARY_SEARCH_3.binary_search j - i
+BINARY_SEARCH_3.binary_search j - i
+BINARY_SEARCH_3.binary_search index_range
+BINARY_SEARCH_3.binary_search j - i
+BINARY_SEARCH_3.binary_search index_range
+BINARY_SEARCH_3.binary_search present
+BINARY_SEARCH_3.binary_search index_range
+BINARY_SEARCH_12.binary_search (n - Result) + (j - i)
+BINARY_SEARCH_7.binary_search (n - Result) + (j - i)

@@ -1,0 +1,149 @@
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_23.multiply_recursive result_correct
+ARITHMETIC_29.multiply_recursive b_in_range
+ARITHMETIC_7.add result_correct
+ARITHMETIC_2.multiply_recursive b_in_range
+ARITHMETIC_8.multiply_recursive b_in_range
+ARITHMETIC_5.add_recursive result_correct
+ARITHMETIC_8.multiply_recursive b_in_range
+ARITHMETIC_5.add_recursive result_correct
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_12.add result_correct
+ARITHMETIC_12.add result_correct
+ARITHMETIC_12.add result_correct
+ARITHMETIC_12.add result_correct
+ARITHMETIC_18.multiply 1 <= i and i <= b
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_26.divide 0 <= r
+ARITHMETIC_26.divide n = m * q + r
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_30.multiply_recursive b_in_range
+ARITHMETIC.multiply a_in_range
+ARITHMETIC_22.multiply_recursive b_in_range
+ARITHMETIC_23.multiply_recursive result_correct
+ARITHMETIC_23.multiply_recursive result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_5.add_recursive result_correct
+ARITHMETIC_5.add_recursive result_correct
+ARITHMETIC_5.multiply_recursive b_in_range
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_31.multiply_recursive b_in_range
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_12.multiply_recursive b_in_range
+ARITHMETIC_21.multiply_recursive b_not_negative
+ARITHMETIC_21.multiply_recursive b_in_range
+ARITHMETIC_30.multiply_recursive b_in_range
+ARITHMETIC_25.multiply_recursive b_in_range
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_28.multiply_recursive b_in_range
+ARITHMETIC_12.add result_correct
+ARITHMETIC_12.add result_correct
+ARITHMETIC_26.multiply_recursive b_in_range
+ARITHMETIC_23.multiply_recursive result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_10.divide_recursive n = m * Result.quotient + Result.remainder
+ARITHMETIC_12.add result_correct
+ARITHMETIC_3.multiply_recursive b_in_range
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_19.multiply_recursive b_in_range
+ARITHMETIC_1.multiply_recursive b_not_negative
+ARITHMETIC_18.multiply 1 <= i and i <= b
+ARITHMETIC_22.multiply_recursive b_in_range
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_17.multiply_recursive b_in_range
+ARITHMETIC_26.multiply_recursive b_in_range
+ARITHMETIC_15.add Result = a + (b - i)
+ARITHMETIC_17.multiply_recursive b_in_range
+ARITHMETIC_7.add result_correct
+ARITHMETIC_15.multiply_recursive b_in_range
+ARITHMETIC_24.multiply_recursive b_in_range
+ARITHMETIC_10.multiply_recursive b_in_range
+ARITHMETIC_16.add_recursive Stack overflow
+ARITHMETIC_29.multiply_recursive b_in_range
+ARITHMETIC_2.multiply_recursive b_in_range
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_16.multiply_recursive b_in_range
+ARITHMETIC_16.add_recursive Stack overflow
+ARITHMETIC_1.multiply_recursive b_not_negative
+ARITHMETIC_1.multiply_recursive b_in_range
+ARITHMETIC_14.multiply_recursive b_in_range
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_4.multiply_recursive b_in_range
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_9.multiply_recursive b_in_range
+ARITHMETIC_4.add_recursive Stack overflow
+ARITHMETIC_4.add_recursive Stack overflow
+ARITHMETIC_4.add_recursive Stack overflow
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC.multiply a_in_range
+ARITHMETIC_19.multiply_recursive b_in_range
+ARITHMETIC_28.multiply_recursive b_in_range
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_3.multiply_recursive b_in_range
+ARITHMETIC.multiply a_in_range
+ARITHMETIC_23.multiply_recursive result_correct
+ARITHMETIC_18.multiply_recursive b_in_range
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_27.multiply Result = a * (b - i + 1)
+ARITHMETIC_29.divide n = m * q + r
+ARITHMETIC_29.divide n = m * q + r
+ARITHMETIC_28.divide 0 <= r
+ARITHMETIC_28.divide 0 <= r
+ARITHMETIC_28.divide 0 <= r
+ARITHMETIC_28.divide 0 <= r
+ARITHMETIC_31.multiply_recursive b_in_range
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_9.add_recursive result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_7.add result_correct
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_4.add_recursive Stack overflow
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_25.multiply_recursive b_in_range
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_11.multiply_recursive b_in_range
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_14.multiply_recursive b_in_range
+ARITHMETIC_11.multiply_recursive b_in_range
+ARITHMETIC_20.multiply result_correct
+ARITHMETIC_6.add b <= i and i <= 0
+ARITHMETIC_10.multiply_recursive b_in_range
+ARITHMETIC_24.multiply_recursive b_in_range
+ARITHMETIC_3.divide_recursive n_not_negative
+ARITHMETIC_3.divide_recursive n_not_negative
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_13.add 0 <= i and i <= b
+ARITHMETIC_21.multiply_recursive b_not_negative
