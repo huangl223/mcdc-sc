@@ -1,0 +1,10 @@
+HEATER_8.turn_on_off heater_is_turned_off
+HEATER_6.turn_on_off heater_is_turned_on
+HEATER_7.turn_on_off heater_is_turned_on
+HEATER_5.turn_on_off heater_is_turned_off
+HEATER_5.turn_on_off heater_is_turned_on
+HEATER_6.turn_on_off heater_is_turned_off
+HEATER_5.turn_on_off heater_is_turned_off
+HEATER_6.turn_on_off heater_is_turned_off
+HEATER_7.turn_on_off heater_is_turned_on
+HEATER_8.turn_on_off heater_is_turned_off

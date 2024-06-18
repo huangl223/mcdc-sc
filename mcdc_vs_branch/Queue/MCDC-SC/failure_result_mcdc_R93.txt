@@ -1,0 +1,718 @@
+FAILED_TESTS_MCDC_R93_30.test_qs_queue_30_make_1 rear_in_range
+QS_QUEUE_14.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_14.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_33.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_24.test_qs_queue_24_make_1 rear_in_range
+QS_QUEUE_18.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_45.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_17.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_17.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_17.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_27.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_18.test_qs_queue_18_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_9.test_qs_queue_9_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_9.test_qs_queue_9_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_33.test_qs_queue_33_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_34.test_qs_queue_34_make_1 rear_in_range
+QS_QUEUE_38.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_31.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_36.test_qs_queue_36_make_1 rear_in_range
+QS_QUEUE_29.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_29.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_23.test_qs_queue_23_make_1 rear_in_range
+QS_QUEUE_20.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_44.test_qs_queue_44_make_1 rear_in_range
+QS_QUEUE_40.is_contain not_found
+QS_QUEUE_40.is_contain not_found
+QS_QUEUE_43.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_43.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_43.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_38.test_qs_queue_38_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_27.test_qs_queue_27_make_1 rear_in_range
+QS_QUEUE_46.search if_not_found_then_not_exists
+QS_QUEUE_34.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_25.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_29.test_qs_queue_29_make_1 rear_in_range
+QS_QUEUE_35.delete not_empty_rear
+QS_QUEUE_35.delete not_empty_rear
+QS_QUEUE_35.delete not_empty_rear
+QS_QUEUE_35.delete not_empty_rear
+QS_QUEUE_32.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_45.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_8.test_qs_queue_8_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_10.test_qs_queue_10_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_13.test_qs_queue_13_make_1 rear_in_range
+QS_QUEUE_25.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_25.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_25.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_39.test_qs_queue_39_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_28.test_qs_queue_28_make_1 rear_in_range
+QS_QUEUE_34.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_34.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_34.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_5.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_5.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_5.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_7.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_12.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_10.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_10.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_37.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_37.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_37.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_36.delete not_empty_result
+QS_QUEUE_32.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_42.test_qs_queue_42_make_1 rear_in_range
+QS_QUEUE_47.search if_in_range_then_correct
+QS_QUEUE_34.delete i_in_range
+FAILED_TESTS_MCDC_R93_48.test_qs_queue_48_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_50.test_qs_queue_50_make_1 rear_in_range
+QS_QUEUE_45.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_48.test_qs_queue_48_make_1 rear_in_range
+QS_QUEUE_49.search index_in_range
+QS_QUEUE_49.search index_in_range
+QS_QUEUE_49.search index_in_range
+QS_QUEUE_17.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_16.test_qs_queue_16_make_1 rear_in_range
+QS_QUEUE_14.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_14.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_20.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_25.test_qs_queue_25_make_1 rear_in_range
+QS_QUEUE_1.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_39.is_contain index_in_range
+FAILED_TESTS_MCDC_R93_50.test_qs_queue_50_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_5.test_qs_queue_5_make_1 rear_in_range
+QS_QUEUE_13.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_25.test_qs_queue_25_make_1 rear_in_range
+QS_QUEUE_13.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_23.test_qs_queue_23_make_1 rear_in_range
+QS_QUEUE_8.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_8.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_36.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_29.delete not_empty_rear
+QS_QUEUE_29.delete i_in_range
+QS_QUEUE_29.delete not_empty_rear
+QS_QUEUE_29.delete not_empty_rear
+QS_QUEUE_29.delete not_empty_rear
+QS_QUEUE_34.delete i_in_range
+QS_QUEUE_34.delete i_in_range
+QS_QUEUE_34.delete i_in_range
+QS_QUEUE_44.is_contain if_found
+QS_QUEUE_3.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_3.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_3.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_16.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_16.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_16.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_17.test_qs_queue_17_make_1 rear_in_range
+QS_QUEUE_46.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_33.test_qs_queue_33_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_31.test_qs_queue_31_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_45.test_qs_queue_45_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_27.test_qs_queue_27_make_1 rear_in_range
+QS_QUEUE_28.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_28.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_43.test_qs_queue_43_make_1 rear_in_range
+QS_QUEUE_49.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_6.test_qs_queue_6_make_1 rear_in_range
+QS_QUEUE_44.is_contain if_found
+QS_QUEUE_11.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_42.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_42.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_42.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_31.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_27.enter not_full_rear
+FAILED_TESTS_MCDC_R93_28.test_qs_queue_28_make_1 rear_in_range
+QS_QUEUE_27.enter in_bounds
+QS_QUEUE_31.delete i_in_range
+FAILED_TESTS_MCDC_R93_40.test_qs_queue_40_make_1 rear_in_range
+QS_QUEUE_31.delete i_in_range
+QS_QUEUE_31.delete i_in_range
+QS_QUEUE_30.delete i_in_range
+QS_QUEUE_45.search index_in_range
+QS_QUEUE_45.search index_in_range
+QS_QUEUE_45.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_43.test_qs_queue_43_make_1 rear_in_range
+QS_QUEUE_47.search if_in_range_then_correct
+FAILED_TESTS_MCDC_R93_47.test_qs_queue_47_make_1 rear_in_range
+QS_QUEUE_30.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_16.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_19.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_19.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_36.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_30.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_30.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_40.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_37.test_qs_queue_37_make_1 rear_in_range
+QS_QUEUE_11.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_33.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_33.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_33.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_12.test_qs_queue_12_make_1 rear_in_range
+QS_QUEUE_1.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_1.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_1.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_36.test_qs_queue_36_make_1 rear_in_range
+QS_QUEUE_48.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_37.test_qs_queue_37_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_14.test_qs_queue_14_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_7.test_qs_queue_7_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_8.test_qs_queue_8_make_1 rear_in_range
+QS_QUEUE_32.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_22.test_qs_queue_22_make_1 rear_in_range
+QS_QUEUE_44.is_contain if_found
+QS_QUEUE_48.search index_in_range
+QS_QUEUE_23.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_46.test_qs_queue_46_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_21.test_qs_queue_21_make_1 rear_in_range
+QS_QUEUE_43.is_contain index_in_range
+QS_QUEUE_43.is_contain index_in_range
+QS_QUEUE_43.is_contain index_in_range
+QS_QUEUE_43.is_contain index_in_range
+QS_QUEUE_43.is_contain index_in_range
+QS_QUEUE_21.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_21.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_21.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_49.test_qs_queue_49_make_1 rear_in_range
+QS_QUEUE_48.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_16.test_qs_queue_16_make_1 rear_in_range
+QS_QUEUE_37.peek if_empty
+QS_QUEUE_4.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_32.test_qs_queue_32_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_11.test_qs_queue_11_make_1 rear_in_range
+QS_QUEUE_31.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_31.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_29.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_14.test_qs_queue_14_make_1 rear_in_range
+QS_QUEUE_24.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_24.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_24.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_26.test_qs_queue_26_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_40.test_qs_queue_40_make_1 rear_in_range
+QS_QUEUE_28.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_42.test_qs_queue_42_make_1 rear_in_range
+QS_QUEUE_6.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_6.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_6.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_48.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_37.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_10.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_36.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_36.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_4.test_qs_queue_4_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_6.test_qs_queue_6_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_5.test_qs_queue_5_make_1 rear_in_range
+QS_QUEUE_3.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_20.test_qs_queue_20_make_1 rear_in_range
+QS_QUEUE_50.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_12.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_12.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_12.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_39.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_39.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_47.search if_in_range_then_correct
+QS_QUEUE_47.search if_in_range_then_correct
+QS_QUEUE_50.search index_in_range
+QS_QUEUE_50.search index_in_range
+QS_QUEUE_50.search index_in_range
+QS_QUEUE_50.search index_in_range
+QS_QUEUE_50.search index_in_range
+FAILED_TESTS_MCDC_R93_46.test_qs_queue_46_make_1 rear_in_range
+QS_QUEUE_30.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_13.test_qs_queue_13_make_1 rear_in_range
+QS_QUEUE_31.delete i_in_range
+QS_QUEUE_15.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_35.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_17.test_qs_queue_17_make_1 rear_in_range
+QS_QUEUE_20.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_2.test_qs_queue_2_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_24.test_qs_queue_24_make_1 rear_in_range
+QS_QUEUE_27.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_27.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_13.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_11.test_qs_queue_11_make_1 rear_in_range
+QS_QUEUE_19.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_18.test_qs_queue_18_make_1 rear_in_range
+QS_QUEUE_41.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_41.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_41.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_21.test_qs_queue_21_make_1 rear_in_range
+QS_QUEUE_22.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_30.delete i_in_range
+QS_QUEUE_30.delete i_in_range
+QS_QUEUE_30.delete i_in_range
+FAILED_TESTS_MCDC_R93_30.test_qs_queue_30_make_1 rear_in_range
+QS_QUEUE_39.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_42.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_42.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_42.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_15.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_15.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_41.test_qs_queue_41_make_1 rear_in_range
+QS_QUEUE_40.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_40.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_3.test_qs_queue_3_make_1 rear_in_range
+QS_QUEUE_6.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_20.test_qs_queue_20_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_45.test_qs_queue_45_make_1 rear_in_range
+QS_QUEUE_33.delete in_bounds
+QS_QUEUE_33.delete in_bounds
+QS_QUEUE_33.delete in_bounds
+FAILED_TESTS_MCDC_R93_31.test_qs_queue_31_make_1 rear_in_range
+QS_QUEUE_33.delete in_bounds
+ANY.old_ is_executable
+ANY.old_ is_executable
+ANY.old_ is_executable
+ANY.old_ is_executable
+QS_QUEUE_18.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_18.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_18.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_34.test_qs_queue_34_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_35.test_qs_queue_35_make_1 rear_in_range
+QS_QUEUE_47.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_19.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_32.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_4.test_qs_queue_4_make_1 rear_in_range
+QS_QUEUE_7.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_10.test_qs_queue_10_make_1 rear_in_range
+QS_QUEUE_29.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_8.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_44.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_44.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_44.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_9.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_9.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_2.test_qs_queue_2_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_22.test_qs_queue_22_make_1 rear_in_range
+QS_QUEUE_27.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_15.test_qs_queue_15_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_44.test_qs_queue_44_make_1 rear_in_range
+QS_QUEUE_20.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_47.test_qs_queue_47_make_1 rear_in_range
+QS_QUEUE_24.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_47.search if_in_range_then_correct
+QS_QUEUE_2.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_38.peek if_not_empty
+QS_QUEUE_36.delete not_empty_result
+QS_QUEUE_36.delete not_empty_result
+QS_QUEUE_36.delete not_empty_result
+QS_QUEUE_22.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_22.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_22.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_26.test_qs_queue_26_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_12.test_qs_queue_12_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_38.test_qs_queue_38_make_1 rear_in_range
+QS_QUEUE_23.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_23.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_28.enter not_full_rear
+FAILED_TESTS_MCDC_R93_7.test_qs_queue_7_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_1.test_qs_queue_1_make_1 rear_in_range
+QS_QUEUE_4.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_19.test_qs_queue_19_make_1 rear_in_range
+QS_QUEUE_2.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_2.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_2.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_35.test_qs_queue_35_make_1 rear_in_range
+QS_QUEUE_10.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_39.is_contain index_in_range
+QS_QUEUE_39.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_35.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_35.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_15.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_29.test_qs_queue_29_make_1 rear_in_range
+QS_QUEUE_21.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_11.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_11.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_41.is_contain if_found
+QS_QUEUE_41.is_contain if_found
+QS_QUEUE_38.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_41.is_contain if_found
+QS_QUEUE_38.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_8.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_39.test_qs_queue_39_make_1 rear_in_range
+QS_QUEUE_5.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_38.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_4.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_4.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_35.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_19.test_qs_queue_19_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_32.test_qs_queue_32_make_1 rear_in_range
+QS_QUEUE_26.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_15.test_qs_queue_15_make_1 rear_in_range
+QS_QUEUE_28.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_49.test_qs_queue_49_make_1 rear_in_range
+QS_QUEUE_7.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_7.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_9.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_26.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_26.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_26.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_23.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_3.test_qs_queue_3_make_1 rear_in_range
+QS_QUEUE_9.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_1.test_qs_queue_1_make_1 rear_in_range
+QS_QUEUE_49.search index_in_range
+QS_QUEUE_49.search index_in_range
+FAILED_TESTS_MCDC_R93_41.test_qs_queue_41_make_1 rear_in_range
+QS_QUEUE_13.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_85.test_qs_queue_85_make_1 rear_in_range
+QS_QUEUE_77.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_66.test_qs_queue_66_make_1 rear_in_range
+QS_QUEUE_79.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_69.test_qs_queue_69_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_97.test_qs_queue_97_make_1 rear_in_range
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_100.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_100.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_53.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_94.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_102.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_73.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_55.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_55.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_55.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_87.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_83.test_qs_queue_83_make_1 rear_in_range
+QS_QUEUE_93.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_93.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_93.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_93.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_82.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_52.test_qs_queue_52_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_86.test_qs_queue_86_make_1 rear_in_range
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_97.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_96.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_96.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_96.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_51.test_qs_queue_51_make_1 rear_in_range
+QS_QUEUE_68.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_98.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_59.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_60.test_qs_queue_60_make_1 rear_in_range
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_60.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_81.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_66.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_80.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_95.test_qs_queue_95_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_54.test_qs_queue_54_make_1 rear_in_range
+QS_QUEUE_55.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_70.test_qs_queue_70_make_1 rear_in_range
+QS_QUEUE_84.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_84.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_84.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_55.test_qs_queue_55_make_1 rear_in_range
+QS_QUEUE_58.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_68.test_qs_queue_68_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_60.test_qs_queue_60_make_1 rear_in_range
+QS_QUEUE_51.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_60.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_60.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_60.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_58.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_89.test_qs_queue_89_make_1 rear_in_range
+QS_QUEUE_85.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_58.get_elem result_is_correct
+FAILED_TESTS_MCDC_R93_102.test_qs_queue_102_make_1 rear_in_range
+QS_QUEUE_52.is_full resuld_is_correct
+FAILED_TESTS_MCDC_R93_54.test_qs_queue_54_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_99.test_qs_queue_99_make_1 rear_in_range
+QS_QUEUE_64.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_72.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_72.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_72.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_99.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_90.test_qs_queue_90_make_1 rear_in_range
+QS_QUEUE_75.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_75.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_52.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_101.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_90.test_qs_queue_90_make_1 rear_in_range
+QS_QUEUE_52.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_72.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_51.test_qs_queue_51_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_92.test_qs_queue_92_make_1 rear_in_range
+QS_QUEUE_91.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_92.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_87.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_73.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_58.test_qs_queue_58_make_1 rear_in_range
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_63.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_63.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_74.test_qs_queue_74_make_1 rear_in_range
+QS_QUEUE_57.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_103.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_103.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_103.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_80.test_qs_queue_80_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_68.test_qs_queue_68_make_1 rear_in_range
+QS_QUEUE_66.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_72.test_qs_queue_72_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_84.test_qs_queue_84_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_75.test_qs_queue_75_make_1 rear_in_range
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_51.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_51.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_51.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_78.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_78.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_78.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_80.test_qs_queue_80_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_94.test_qs_queue_94_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_84.test_qs_queue_84_make_1 rear_in_range
+QS_QUEUE_54.is_full resuld_is_correct
+QS_QUEUE_90.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_54.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_54.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_80.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_64.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_81.test_qs_queue_81_make_1 rear_in_range
+QS_QUEUE_92.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_92.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_102.test_qs_queue_102_make_1 rear_in_range
+QS_QUEUE_52.is_full resuld_is_correct
+FAILED_TESTS_MCDC_R93_64.test_qs_queue_64_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_98.test_qs_queue_98_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_75.test_qs_queue_75_make_1 rear_in_range
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_69.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_69.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_69.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_69.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_89.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_80.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_80.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_54.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_100.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_93.test_qs_queue_93_make_1 rear_in_range
+QS_QUEUE_71.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_54.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_57.test_qs_queue_57_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_63.test_qs_queue_63_make_1 rear_in_range
+QS_QUEUE_83.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_83.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_84.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_101.test_qs_queue_101_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_61.test_qs_queue_61_make_1 rear_in_range
+QS_QUEUE_81.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_78.test_qs_queue_78_make_1 rear_in_range
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_57.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_57.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_57.test_qs_queue_57_make_1 rear_in_range
+QS_QUEUE_57.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_87.test_qs_queue_87_make_1 rear_in_range
+QS_QUEUE_95.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_56.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_95.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_73.test_qs_queue_73_make_1 rear_in_range
+QS_QUEUE_87.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_97.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_88.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_64.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_96.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_71.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_71.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_71.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_67.test_qs_queue_67_make_1 rear_in_range
+QS_QUEUE_98.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_98.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_98.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_100.test_qs_queue_100_make_1 rear_in_range
+QS_QUEUE_67.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_74.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_74.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_74.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+FAILED_TESTS_MCDC_R93_77.test_qs_queue_77_make_1 rear_in_range
+QS_QUEUE_78.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_52.is_full resuld_is_correct
+QS_QUEUE_52.is_full resuld_is_correct
+FAILED_TESTS_MCDC_R93_93.test_qs_queue_93_make_1 rear_in_range
+QS_QUEUE_54.is_full resuld_is_correct
+FAILED_TESTS_MCDC_R93_100.test_qs_queue_100_make_1 rear_in_range
+QS_QUEUE_55.size result_is_correct
+QS_QUEUE_63.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_86.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_86.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_86.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_87.test_qs_queue_87_make_1 rear_in_range
+QS_QUEUE_94.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_83.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_62.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_62.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_62.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_89.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_89.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_89.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_70.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_99.test_qs_queue_99_make_1 rear_in_range
+QS_QUEUE_70.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_97.test_qs_queue_97_make_1 rear_in_range
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_102.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_102.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_102.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_68.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_100.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_58.test_qs_queue_58_make_1 rear_in_range
+QS_QUEUE_63.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_70.test_qs_queue_70_make_1 rear_in_range
+QS_QUEUE_88.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_56.get_front result_is_correct
+FAILED_TESTS_MCDC_R93_52.test_qs_queue_52_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_73.test_qs_queue_73_make_1 rear_in_range
+QS_QUEUE_70.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_77.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_77.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_77.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_56.test_qs_queue_56_make_1 rear_in_range
+QS_QUEUE_90.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_62.test_qs_queue_62_make_1 rear_in_range
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_95.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_79.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_71.test_qs_queue_71_make_1 rear_in_range
+QS_QUEUE_53.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_67.test_qs_queue_67_make_1 rear_in_range
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_91.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_91.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_76.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_83.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_82.test_qs_queue_82_make_1 rear_in_range
+QS_QUEUE_75.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_94.test_qs_queue_94_make_1 rear_in_range
+QS_QUEUE_95.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_65.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_79.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_79.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_68.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_68.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_76.test_qs_queue_76_make_1 rear_in_range
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_57.get_rear result_is_correct
+FAILED_TESTS_MCDC_R93_91.test_qs_queue_91_make_1 rear_in_range
+QS_QUEUE_82.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_82.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_56.test_qs_queue_56_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_63.test_qs_queue_63_make_1 rear_in_range
+QS_QUEUE_82.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_79.test_qs_queue_79_make_1 rear_in_range
+QS_QUEUE_56.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_56.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_56.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_85.test_qs_queue_85_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_82.test_qs_queue_82_make_1 rear_in_range
+QS_QUEUE_94.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_96.test_qs_queue_96_make_1 rear_in_range
+QS_QUEUE_94.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_83.test_qs_queue_83_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_66.test_qs_queue_66_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_53.test_qs_queue_53_make_1 rear_in_range
+QS_QUEUE_103.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_88.test_qs_queue_88_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_101.test_qs_queue_101_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_77.test_qs_queue_77_make_1 rear_in_range
+QS_QUEUE_59.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_59.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_59.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_98.test_qs_queue_98_make_1 rear_in_range
+QS_QUEUE_65.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_97.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_87.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_53.test_qs_queue_53_make_1 rear_in_range
+QS_QUEUE_56.get_front result_is_correct
+FAILED_TESTS_MCDC_R93_76.test_qs_queue_76_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_69.test_qs_queue_69_make_1 rear_in_range
+QS_QUEUE_58.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_58.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_103.test_qs_queue_103_make_1 rear_in_range
+QS_QUEUE_101.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_53.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_53.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_103.test_qs_queue_103_make_1 rear_in_range
+QS_QUEUE_90.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_72.test_qs_queue_72_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_86.test_qs_queue_86_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_88.test_qs_queue_88_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_55.test_qs_queue_55_make_1 rear_in_range
+QS_QUEUE_92.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_89.test_qs_queue_89_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_62.test_qs_queue_62_make_1 rear_in_range
+QS_QUEUE_74.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_85.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_85.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_85.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_61.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_61.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_88.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_88.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_61.test_qs_queue_61_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_95.test_qs_queue_95_make_1 rear_in_range
+QS_QUEUE_67.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_53.is_full resuld_is_correct
+QS_QUEUE_99.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_73.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_73.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_99.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_65.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_65.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_66.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_66.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_53.is_full resuld_is_correct
+FAILED_TESTS_MCDC_R93_92.test_qs_queue_92_make_1 rear_in_range
+QS_QUEUE_97.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_101.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_99.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_62.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_76.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_76.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_76.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_61.is_contain max - index - if Result then 1 else 0 end
+QS_QUEUE_81.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_71.test_qs_queue_71_make_1 rear_in_range
+QS_QUEUE_70.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_52.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_52.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_65.test_qs_queue_65_make_1 rear_in_range
+QS_QUEUE_81.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_75.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_90.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_65.test_qs_queue_65_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_96.test_qs_queue_96_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_81.test_qs_queue_81_make_1 rear_in_range
+QS_QUEUE_57.get_rear result_is_correct
+QS_QUEUE_64.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_86.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_59.test_qs_queue_59_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_59.test_qs_queue_59_make_1 rear_in_range
+QS_QUEUE_61.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_79.test_qs_queue_79_make_1 rear_in_range
+QS_QUEUE_67.search max - index - if Result = -1 then 0 else 1 end
+QS_QUEUE_67.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_91.test_qs_queue_91_make_1 rear_in_range
+FAILED_TESTS_MCDC_R93_74.test_qs_queue_74_make_1 rear_in_range
+QS_QUEUE_51.is_empty result_is_correct
+QS_QUEUE_101.search max - index - if Result = -1 then 0 else 1 end
+FAILED_TESTS_MCDC_R93_64.test_qs_queue_64_make_1 rear_in_range
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_56.get_front result_is_correct
+QS_QUEUE_91.is_contain max - index - if Result then 1 else 0 end
+FAILED_TESTS_MCDC_R93_78.test_qs_queue_78_make_1 rear_in_range
